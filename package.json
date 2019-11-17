@@ -1,0 +1,8 @@
+{
+  "name": "test-work-react-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ra2007/testwork.git",
+  "author": "Ra2007 <ra18@ya.ru>",
+  "license": "MIT"
+}
