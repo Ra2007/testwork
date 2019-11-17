@@ -1,0 +1,11 @@
+.footer-wrap {
+  height: 100%;
+  display: grid;
+  grid-template-rows: 80px 1fr;
+  .footer-pass {
+  }
+  .footer-content {
+    background-color: #ffffff;
+    height: 100%;
+  }
+}

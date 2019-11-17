@@ -1,0 +1,14 @@
+{
+  "errors": [],
+  "warnings": [],
+  "assetsByChunkName": {
+    "main": [
+      "styles.648f24f1f0ca0b3e3341.css",
+      "bundle.648f24f1f0ca0b3e3341.js",
+      "styles.648f24f1f0ca0b3e3341.css.map",
+      "bundle.648f24f1f0ca0b3e3341.js.map"
+    ]
+  },
+  "assets": [],
+  "filteredAssets": 10
+}

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1573206189003" clover="3.2.0">
+  <project timestamp="1573206189003" name="All files">
+    <metrics statements="133" coveredstatements="132" conditionals="67" coveredconditionals="67" methods="57" coveredmethods="56" elements="257" coveredelements="255" complexity="0" loc="133" ncloc="133" packages="13" files="22" classes="22"/>
+    <package name="api">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="authLogin.js" path="/Users/alex/testreactssr/src/api/authLogin.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="authRegistr.js" path="/Users/alex/testreactssr/src/api/authRegistr.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="createTransaction.js" path="/Users/alex/testreactssr/src/api/createTransaction.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="listTransaction.js" path="/Users/alex/testreactssr/src/api/listTransaction.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+      </file>
+      <file name="userInfo.js" path="/Users/alex/testreactssr/src/api/userInfo.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="usersName.js" path="/Users/alex/testreactssr/src/api/usersName.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.LinksTransfer">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/alex/testreactssr/src/components/LinksTransfer/index.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Logo">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.js" path="/Users/alex/testreactssr/src/components/Logo/index.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.TransactionTable">
+      <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+      <file name="index.js" path="/Users/alex/testreactssr/src/components/TransactionTable/index.js">
+        <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.UserBlock">
+      <metrics statements="6" coveredstatements="6" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="4"/>
+      <file name="index.js" path="/Users/alex/testreactssr/src/components/UserBlock/index.js">
+        <metrics statements="6" coveredstatements="6" conditionals="5" coveredconditionals="5" methods="4" coveredmethods="4"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.UsersList">
+      <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="5" methods="3" coveredmethods="3"/>
+      <file name="index.js" path="/Users/alex/testreactssr/src/components/UsersList/index.js">
+        <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="5" methods="3" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="elements.Button">
+      <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/alex/testreactssr/src/elements/Button/index.js">
+        <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="39" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="elements.Input">
+      <metrics statements="6" coveredstatements="6" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <file name="index.js" path="/Users/alex/testreactssr/src/elements/Input/index.js">
+        <metrics statements="6" coveredstatements="6" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="elements.Loader">
+      <metrics statements="4" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <file name="index.js" path="/Users/alex/testreactssr/src/elements/Loader/index.js">
+        <metrics statements="4" coveredstatements="4" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="store">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="types.js" path="/Users/alex/testreactssr/src/store/types.js">
+        <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="6" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="21" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.actions">
+      <metrics statements="38" coveredstatements="38" conditionals="0" coveredconditionals="0" methods="30" coveredmethods="30"/>
+      <file name="auth.js" path="/Users/alex/testreactssr/src/store/actions/auth.js">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+      </file>
+      <file name="transfer.js" path="/Users/alex/testreactssr/src/store/actions/transfer.js">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="16" coveredmethods="16"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="62" count="2" type="stmt"/>
+        <line num="63" count="2" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+      </file>
+      <file name="user.js" path="/Users/alex/testreactssr/src/store/actions/user.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.reducers">
+      <metrics statements="31" coveredstatements="31" conditionals="25" coveredconditionals="25" methods="3" coveredmethods="3"/>
+      <file name="auth.js" path="/Users/alex/testreactssr/src/store/reducers/auth.js">
+        <metrics statements="9" coveredstatements="9" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="6" type="cond" truecount="6" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+      </file>
+      <file name="transfer.js" path="/Users/alex/testreactssr/src/store/reducers/transfer.js">
+        <metrics statements="14" coveredstatements="14" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="26" count="11" type="stmt"/>
+        <line num="27" count="11" type="cond" truecount="11" falsecount="0"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+      </file>
+      <file name="user.js" path="/Users/alex/testreactssr/src/store/reducers/user.js">
+        <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="cond" truecount="5" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="tools">
+      <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="assetsTransformer.js" path="/Users/alex/testreactssr/src/tools/assetsTransformer.js">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
